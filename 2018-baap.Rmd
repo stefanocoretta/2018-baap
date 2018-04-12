@@ -352,7 +352,7 @@ as_tibble(rbind(coef(vowels_it_lm)$speaker[2], coef(vowels_pl_lm)$speaker[2]), r
 * **Midsagittal tongue contours**
     * From *within consonant closure* [at maximum tongue displacement, @strycharczuk2015], polar coordinates [@heyne2015a;@heyne2015;@mielke2015]
 
-* **Generalised additive mixed models (GAMMs)** [@wood2006;@soskuthy2017;@van-rij2017]
+* **Generalised additive mixed models (GAMMs)** [@wood2006;@soskuthy2017;@van-rij2017;@coretta2017]
 
 * **Polar GAMMs** with the `rticulate` R package [@coretta2018;@coretta2018a]
 
