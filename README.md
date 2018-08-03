@@ -1,6 +1,8 @@
 # Tongue root advancement and vowel duration: A gradient effect? (BAAP Colloquium 2018)
 
-This is the repository with the code of the talk *Tongue root advancement and vowel duration: A gradient effect?*, presented at BAAP 2018.
+[![DOI](https://zenodo.org/badge/128189420.svg)](https://zenodo.org/badge/latestdoi/128189420)
+
+This is the Research Compendium of the talk *Tongue root advancement and vowel duration: A gradient effect?*, presented at BAAP 2018.
 
 ## Reproducibility
 
